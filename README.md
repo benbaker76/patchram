@@ -20,7 +20,7 @@ NOTE: You will need to disable your bluetooth device for this tool to be able to
 This uses the USB DFU specification (http://www.usb.org/developers/docs/devclass_docs/DFU_1.1.pdf), to upload firmware into a DFU device.
 
 ## Credits
-- [headkaze](https://github.com/headkaze) for writing the software, updating and maintaining it
+- [benbaker76](https://github.com/benbaker76) for writing the software, updating and maintaining it
 - [RehabMan](https://github.com/RehabMan) for BrcmPatchRAM
 - [the-darkvoid](https://github.com/the-darkvoid) for dfu-util-osx and BrcmPatchRAM
 
